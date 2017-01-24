@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.4.0_c70780c9d34290adc76671aed3896b798144053c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_a15861d2eed34142128172ebafe8f1fdbfba98c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.14.1/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_a283b4483b78d02d0f5e7dfdddd4aceb96add217/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_56be1ebf9372f9067dc76ba6442a9c74e4f82588/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="969c416828677f6748326d98f643d77f4371c2d8">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_da5f2d78722c4f7389b7fe7b75f3414a8395d780/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.maps.android-android-maps-utils-0.4.4_af01153f6368bdd85096d0e0c536195f80bdef6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.4.0_4e76c2bcc10922799e38bc2fff4aa5a202c67e37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_29ea87669ad331dbd7b54725e8672c75ca2a7682/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.4.0_84c039aeca448d0253af64bfc586f005e648ddc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_cd9d10ac2cff449429227de5472b40f96a1f5647/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2061e47451859e1e332ec88a251f243fd9cce739/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.firebase/geofire-android/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5d91b5ea1f08ac3148d6a46e61645a56f42f9280">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebase-geofire-android-2.0.0_7ff9117b6dd28ed022c9956cc8bfde75c8b674cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_f3aa50c0b521e880e6e090009bdf38ec3967da79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_6d5dd72fb4e6fa0c9a6c12d01a351859dacddf20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.4.0_d453edfd234407f397c05efd31003b059f67d512/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.14.1/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_d8e958a6111df90b0f055eeb89dec0f47c0dbcc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_a39d9b88b90f72890a9ceedba5b694861fc20778/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_54061adda17cff2278e6795d79b7b5b39d9c7c09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_93f5290d25da26b7692563844a69f226ced39df7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_96b2eb29ea5af1f9ce83ae5c9265078d0f7a8a3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_6db5700f214eebd0122993844e3c6204467d5d65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_82b7728b9833f1708dedfd056cac7356e705b9b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_e935d319053917a05777e361c305f1c36c883120/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_5456915be8cfbd4617d9ce47d59c56a7ff058c9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_af92789f5297d096289f438d6c40372ded8fcc0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_d8ee3a932a5a0b6040f4fe0d6ff53c37cfab83c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.14.1/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.0.3/1665cb30372ae93a46d9800adf5751bc48fa202f/firebase-client-android-2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1665cb30372ae93a46d9800adf5751bc48fa202f">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.0.3_e2e0a88f31d8e48c3b40c4ca9f0c04f9468c0740/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_c89cf324f9f8bbfa2794149bb3a0e406cbaebb64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.4.0_324e7c685e03d9c5f23b08a44e2793ae4be44421/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.14.1/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_dae40150bf11fbc9cf027bee20bc041249c2b77c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.14.1/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.0.3/81994bbc1bd46454616b733bf31fe4a22018e056/firebase-client-jvm-2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="81994bbc1bd46454616b733bf31fe4a22018e056">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.0.3_da3b2deac288fc3725d1f11ff789b5f26cafb4a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.4.0_2dc4669d82ce7d4735e83872efe6e52cfa22ce49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_2982eb2c6cab23b2ef1dd22ff1c5196e5d023612/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_02f2309080dbfc30831451d9b67eaf1fbf987f03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.4.0_38a2dfeae803ae796eb8df3c6e8301187ca3f9cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_900607f1f4aee531fce768d2304e7c91e552e67a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_606905157987d0dd60a4c0fffb5b2f0cc1ce4168/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_c40e9ead81d2b27f6b3ed7b5987c90088baa69e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_23bfd3a11eff919a8f249941d516fefaa812790c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.4.0_403cb857eabadec7a1b97512bed9c0b7e16ebbb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_9fcf1b07757e009915b5fc43f5e8f6d5ad1cf92a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_65c31f28328b2999a049e2cfbf05bd729ab98f5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_061dd9c935227521e07f83c6f078ad929d737e8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_0c365a4e8ad494d773d67a4207baa981b22b62b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_ef7d37c27fe9c913435b2893988bd379a53b4e7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_8ae37aaeaf292a826c2c23e56b3f3cffd71a8e74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_479200a490aa70d460179786fda7f4cf6df2baea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_1fb072f146a6be3b14dca3c58990b5948291b59e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_65e1eb04531add04947aa7f079b68e5b8ed8d198/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_23cf356e4eb43a8298566f56d528d94365573b41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_2a5e0d0da58f81cfad5fbb4985234dc860ef24a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="49910eaa1274148661a64375524501b08aa81306">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_346444635d623e3035fca175793ee2055e8d997a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_08a4f65657b70fea57c843ed5bde42305bbd9b71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_1017c7655fc430c513ff7343311618ef3eaedbe3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.14.1/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.10/ddce2c65136c1de8000f8932d8b7ab16d5d336b9/tubesock-0.0.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ddce2c65136c1de8000f8932d8b7ab16d5d336b9">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.10_517fabb9538b2b7287bd6e4df0ef3407dc653c12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_4633beba60022ee0c079f0615a00ee6e85ecf16d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_8a621a910d634f1e4e21a29bf26a09bbb44e5c63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.4.0_08b0e5a23cc8529186ea556944541f1780e4ddc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_45336555b09ab717b6a719f5562abd1b0423e622/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_99cd9494e31b9799850b53156f8ae6db71f75860/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_773a2e21c9e57bbc92be3f42d54b906b444960af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_13872a609f4ff4417afa7a9e73eb3fd3374a87d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_414ad8e95378da59ce9358996bca769d81803f5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_6b00fc259d57a6e586e8ba871b4376f9a8a0c034/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_2e3392200890fa6ce0c98fb32e48ae6b2b2a7888/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_879a186f3b77ef9b207750d70e1900e1e63c28ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_04b108d7caeb09dfb8c9949d448d7a6a1f9f06dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_2b25cfd09c9238f6929264a53be5f391fe08127e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_8a96ad04713a6cfc720565fbaed5ec3654ef962f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_477363d7f7852cc297f9efea8cf7367318e21db8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.4.0_60877d853bcdaecb8dda023d56ffd83107ed138d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_e9fe959b7b9b131fffd137af9fb196fce9843b86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_1465c84ed245ffc44a470a12ab5aa7ed272cf87d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.4.0_dd0d404bb0ff12afbfcd68bbaa749046eee3032b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_ca1bf1fe0fd199b102e36c538807dd4dafbcd3f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_877494bdb1bb8a32cb01e963c8f8ca0072cb42da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_8cd32f50107335a018571a50469330a9d0663925/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_41f06a19ddf424299dc108ea22b91c64c002a46b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/sunnybedi/Desktop/HereAmI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_605ddf34cd9b1fead9125c7980c3e360de3c421d/classes.dex" />
+    </item>
+
+</items>
